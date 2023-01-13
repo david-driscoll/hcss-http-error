@@ -1,0 +1,17 @@
+﻿{
+  DataFactory: {},
+  Errors: [
+    {
+      Message: This is a custom error message.,
+      Path: [
+        book
+      ],
+      Locations: [
+        {
+          Line: 1,
+          Column: 41
+        }
+      ]
+    }
+  ]
+}

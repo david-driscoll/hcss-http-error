@@ -1,0 +1,18 @@
+query Book {
+    book {
+        title
+    }
+}
+query Author {
+    author {
+        name
+    }
+}
+query Both {
+    author {
+        name
+    }
+    book {
+        title
+    }
+}
